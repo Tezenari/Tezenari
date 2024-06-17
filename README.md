@@ -5,7 +5,7 @@ Welcome to my page!
 I'm Dylan and I am an Unreal Engine Technical Artist with a passion for learning, best development practices, and art. 
 
 ## The Unreal Directive
-I currently run a website called the [Unreal Directive](unrealdirective.com) where I published [articles](https://www.unrealdirective.com/articles), [tips & tricks](https://www.unrealdirective.com/tips), [videos](https://www.unrealdirective.com/videos), and more about Unreal Engine.
+I currently run a website called the [Unreal Directive](https://www.unrealdirective.com) where I published [articles](https://www.unrealdirective.com/articles), [tips & tricks](https://www.unrealdirective.com/tips), [videos](https://www.unrealdirective.com/videos), and more about Unreal Engine.
 
 
 <!--
